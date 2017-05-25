@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MysqlConnectionTest.iml" filepath="$PROJECT_DIR$/MysqlConnectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ormliteconnection/ormliteconnection.iml" filepath="$PROJECT_DIR$/ormliteconnection/ormliteconnection.iml" />
     </modules>
   </component>
 </project>
